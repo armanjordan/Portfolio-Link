@@ -4,7 +4,7 @@ Portfolio: https://drive.google.com/drive/folders/0B0b5mmpQXX1BflVLeXJDanBnUllBW
 
 Hey there! My name is Arman Alexander Jordan, and I've been making games since I was 6 years old.
 
-I grew up imagining fantastical worlds, playing dungeon master for my siblings and neighborhood friends, where I found immense joy in creating enjoyable experiences for others. I went through a phase of constructing foam weapons like swords and axes from pvc pipes padded with pool noodles, and would design games for the 20+ children of my neighborhood to play together(like modified hunger games and juggernaut).
+I grew up imagining fantastical worlds, playing dungeon master for my siblings and neighborhood friends, where I found immense joy in creating enjoyable experiences for others. I went through a phase of constructing foam weapons including swords and axes from pvc pipes padded with pool noodles, and would design games for the 20+ children of my neighborhood to play together(like modified hunger games and juggernaut).
 
 When I turned 12, my mom put me into a coding bootcamp, where I programmed my first choose your own adventure game! From there I couldn't stop, and churned out game after game using whatever medium I could. I programmed 50+ games using Scratch up until the end middle-school. Through highschool I would create adventure maps in Minecraft for my loved ones, and organize underground boxing competitions where hundreds of students from my school would attend and compete.
 
